@@ -1,6 +1,6 @@
 ---
 title: 'Reproducible Research: Project 1'
-author: 'Trent Parkinson'
+author: 'Rati Nimkar'
 date: 'Dec 5th, 2017'
 output:
   html_document:
